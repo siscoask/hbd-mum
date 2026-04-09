@@ -1,0 +1,27 @@
+{
+  "name": "Happy Birthday, Mum ✨",
+  "short_name": "Mum's Glow",
+  "description": "A heartfelt digital birthday gift — made with love for the most amazing mum in the universe.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFDE0",
+  "theme_color": "#F7C948",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "personalization"],
+  "lang": "en",
+  "scope": "./"
+}
